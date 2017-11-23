@@ -1,0 +1,16 @@
+{
+    "name": "efingbv/app_sheep",
+    "description": "app_sheep",
+    "type": "PHP",
+    "require": {
+        "fzaninotto/faker": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dylan",
+            "email": "efingbv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

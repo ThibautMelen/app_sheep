@@ -1,0 +1,25 @@
+html, body {
+  overflow: visible;
+  background-color: #4b6288!important;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+nav {
+  display: block;
+  width: 100vw;
+
+
+}
+
+
+
+section.dashbord {
+
+
+
+
+
+}
